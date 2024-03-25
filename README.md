@@ -77,7 +77,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [lokesh-6](https://github.com/lokesh-6)
+* **Your Name** - *Initial work* - [abhishek](https://github.com/brawnabhi)
 
 
 ## License
